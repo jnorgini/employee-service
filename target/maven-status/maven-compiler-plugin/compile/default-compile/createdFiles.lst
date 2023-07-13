@@ -1,0 +1,6 @@
+com\norgini\employeemanager\resource\EmployeeResource.class
+com\norgini\employeemanager\service\EmployeeService.class
+com\norgini\employeemanager\EmployeemanagerApplication.class
+com\norgini\employeemanager\repository\EmployeeRepository.class
+com\norgini\employeemanager\model\Employee.class
+com\norgini\employeemanager\exception\UserNotFoundException.class

@@ -1,0 +1,5 @@
+com\norgini\employeemanager\EmployeemanagerApplicationIntegrationTest.class
+com\norgini\employeemanager\resource\EmployeeResourceTest.class
+com\norgini\employeemanager\service\EmployeeServiceTest.class
+com\norgini\employeemanager\exception\UserNotFoundExceptionTest.class
+com\norgini\employeemanager\model\EmployeeTest.class
